@@ -1,7 +1,7 @@
 Welcome to the csj-dataMLAI wiki!
 
 This Cloud Study Jam leverages several GCP services as a starting point to understand different aspects of data analytics, science, and engineering.
-1. BigQuery [https://cloud.google.com/bigquery/]
+1. [BigQuery] (https://cloud.google.com/bigquery/)
 2. Bigtable
 3. Cloud Natural Language API
 4. Cloud Speech API
