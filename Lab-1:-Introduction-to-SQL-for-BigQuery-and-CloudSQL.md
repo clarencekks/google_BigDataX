@@ -1,1 +1,1 @@
-Slides: 
+[Slides](https://docs.google.com/presentation/d/18M2TQYCZZxv1zIY-To7uE4i_XLaRzD6vEU_9eVqVruk/edit?usp=sharing) to Introduction to SQL for BigQuery and CloudSQL
