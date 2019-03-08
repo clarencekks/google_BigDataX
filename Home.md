@@ -15,3 +15,7 @@ This Cloud Study Jam leverages several GCP services as a starting point to under
 12. [Dataflow](https://cloud.google.com/dataflow/)
 13. [Cloud Filestore](https://cloud.google.com/filestore/)
 
+Slides for Cloud Study Jam (09/03/2019):
+1. [Overview](https://docs.google.com/presentation/d/1RbotrDC4SVWHK3HtnZ_45-EV0Iw8idkgnOwLdjE-FBw/edit?usp=sharing)
+2. [Introduction to SQL for BigQuery and CloudSQL](https://docs.google.com/presentation/d/18M2TQYCZZxv1zIY-To7uE4i_XLaRzD6vEU_9eVqVruk/edit?usp=sharing)
+3. [BigQuery: Qwik Start - Console and Bigtable: Qwik Start - Command Line](https://docs.google.com/presentation/d/1CXqD5UBZxI4bB_936npmF4f-xGnLtyi-w6uNCHKuVZI/edit?usp=sharing)
